@@ -1,0 +1,9 @@
+[submodule "ParseGP"]
+	path = ParseGP
+	url = https://github.com/eladden/ParseGP.git
+[submodule "Matlab-assisting-functions"]
+	path = Matlab-assisting-functions
+	url = https://github.com/foxelas/Matlab-assisting-functions.git
+[submodule "matlab2tikz"]
+	path = matlab2tikz
+	url = https://github.com/matlab2tikz/matlab2tikz
