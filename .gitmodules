@@ -7,3 +7,5 @@
 [submodule "matlab2tikz"]
 	path = matlab2tikz
 	url = https://github.com/matlab2tikz/matlab2tikz
+[submodule "https://github.com/foxelas/Matlab-assisting-functions.git"]
+	branch = table2latex
