@@ -49,6 +49,6 @@ Running the executable from `./build/Main_to_print_executable_time` would create
 If you use this code in your research, please cite:
 ```
 AbedAlkream, S., AbedEllatif, M., Peretz, G., & Denenberg, E. 
-_Evaluating Integrators for Autonomous Space Situational Awareness Module._ 
+Evaluating Integrators for Autonomous Space Situational Awareness Module. 
 Astrodynamics. 2025
 ```
